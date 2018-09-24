@@ -1,4 +1,4 @@
-### rubymotion
+### RubyMotion
 ---
 http://www.rubymotion.com/jp/
 
